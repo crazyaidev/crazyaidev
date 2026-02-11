@@ -1,6 +1,6 @@
 # 👋 Hi, I’m a Senior Full Stack .NET & AI Developer
 
-![Working Hard as a Freelancer](https://cdn.jsdelivr.net/gh/crazyaidev/crazyaidev/me.png)
+<img src="https://cdn.jsdelivr.net/gh/crazyaidev/crazyaidev/me.png" alt="Working Hard as a Freelancer" width="1024"/>
 
 ---
 
