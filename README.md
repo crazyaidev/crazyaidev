@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Senior Full Stack .NET & AI Developer
+# 👋 Hi, I’m a Senior Full Stack .NET & AI Developer
 
 ![Working Hard as a Freelancer](https://media.giphy.com/media/3oKIPwoeGErMmaI43y/giphy.gif)
 
