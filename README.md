@@ -64,7 +64,7 @@ I love turning hard business needs into easy-to-use, beautiful solutions. I'm bi
 <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="60%" alt="AI Automation in Action">
 
 **Modern Dashboards:**  
-<img src="https://media.giphy.com/media/l3nWhI38IWDofyDrW/giphy.gif" width="60%" alt="Dashboard Example">
+<img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80" width="60%" alt="Modern Dashboard Preview">
 
 ---
 
