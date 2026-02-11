@@ -1,4 +1,4 @@
-# 👋 Hi, I’m a Senior Full Stack .NET & AI Developer
+# 👋 Hi, I’m a Senior Full Stack .NET, Python, Next.js & AI Developer
 
 ![Working Hard as a Freelancer](https://raw.githubusercontent.com/crazyaidev/crazyaidev/main/me.png)
 
@@ -8,7 +8,9 @@
 
 I’m a passionate full stack developer with 10+ years of experience building secure SaaS platforms, multi-tenant web apps, modern UI/UX, and integrating smart AI solutions.
 
-I specialize in .NET, C#, ASP.NET Core, React, and building real-world solutions for PropTech, FinTech, and B2B SaaS customers. I use AI tools to help automate tasks, speed up delivery, and keep code clean and up-to-date.
+I specialize in .NET, C#, Python, Next.js, React, and building real-world solutions for PropTech, FinTech, and B2B SaaS customers. I have strong expertise in developing dynamic and scalable applications, leveraging AI & ML technologies to deliver automation and business value.
+
+I enjoy building full stack solutions—frontend and backend—using modern stacks and integrating API-driven AI features. My workflow emphasizes collaboration, QA, code clarity, and future-proof architecture.
 
 ---
 
@@ -16,24 +18,26 @@ I specialize in .NET, C#, ASP.NET Core, React, and building real-world solutions
 
 **Backend:**  
 - .NET Core / ASP.NET Core  
+- Python (FastAPI, Flask, Django)  
+- Node.js  
 - C#  
-- Entity Framework  
 - RESTful API (API-first, OpenAPI/Swagger)  
 - Microservices + Clean Architecture  
 - Payment Integrations (Stripe, PayPal)  
 - JWT / OAuth2 Secure Auth  
 
 **Frontend:**  
+- Next.js  
 - React.js  
 - Angular  
 - Vue.js  
-- Blazor  
-- Modern Responsive UI (TailwindCSS, SCSS)  
+- Modern Responsive UI (TailwindCSS, SCSS, HTML5, CSS3, JavaScript/ES6)  
 
 **Database:**  
 - PostgreSQL  
 - Microsoft SQL Server  
 - MySQL  
+- NoSQL (MongoDB, Firebase)  
 - Advanced SQL & Data Modeling  
 
 **Cloud & DevOps:**  
@@ -43,12 +47,14 @@ I specialize in .NET, C#, ASP.NET Core, React, and building real-world solutions
 - CI/CD (GitHub Actions, Azure DevOps)  
 - Infrastructure-as-code (Terraform, ARM)  
 
-**AI / Automation:**  
+**AI / ML & Automation:**  
 - OpenAI APIs (text, data extraction, email assist)  
+- Machine Learning Model Integration (scikit-learn, TensorFlow, PyTorch)  
 - Azure AI Services  
 - GitHub Copilot & AI coding tools  
 
 **Integrations:**  
+- RESTful and GraphQL API development  
 - Gmail / GSuite / Outlook (emails, calendar)  
 - MLS, CRM (Salesforce, HubSpot), E-sign (DocuSign, HelloSign)  
 - Twilio, SendGrid, Plaid, Google Maps
@@ -59,6 +65,7 @@ I specialize in .NET, C#, ASP.NET Core, React, and building real-world solutions
 
 **AI-Powered Real Estate Transaction Platform**  
 - Multi-tenant SaaS for real estate brokerages & agents  
+- Python & Next.js-based architecture  
 - Contract parsing (AI, OpenAI), deadline extraction, smart workflows  
 - Custom dashboards per user role  
 - Modern, white-label UI  
@@ -73,10 +80,12 @@ I specialize in .NET, C#, ASP.NET Core, React, and building real-world solutions
 ## 📈 What I Deliver
 
 - Robust, scalable SaaS web apps  
-- Secure & modern UIs (great user experience!)  
+- Seamless front-end/back-end integration (Python, Next.js, Node.js)  
+- Clean, secure, and modern UIs (HTML, CSS, JavaScript, React, Next.js)  
+- End-to-end API and AI/ML features built for real business needs  
 - Fast project delivery with clear milestones  
+- Rigorous testing and continuous improvement  
 - Long-term support and honest communication  
-- Real solutions based on real business needs  
 
 ---
 
