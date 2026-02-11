@@ -61,22 +61,6 @@ I enjoy building full stack solutions—frontend and backend—using modern stac
 
 ---
 
-## 🚀 Featured Project: ListedKit AI
-
-**AI-Powered Real Estate Transaction Platform**  
-- Multi-tenant SaaS for real estate brokerages & agents  
-- Python & Next.js-based architecture  
-- Contract parsing (AI, OpenAI), deadline extraction, smart workflows  
-- Custom dashboards per user role  
-- Modern, white-label UI  
-- Payment gateway integration for fees & commissions  
-- Advertising module for vendors  
-- Email/calendar sync, CRM/E-sign linkage
-
-[🔗 Live Demo](https://www.listedkit.com/)
-
----
-
 ## 📈 What I Deliver
 
 - Robust, scalable SaaS web apps  
